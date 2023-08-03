@@ -18,9 +18,9 @@ phone_ip_address = ["10.6.3.8","10.6.3.143","10.6.3.141","10.6.3.128","10.6.3.13
 
 # Логин пароль для входа
 login = "admin"
-passwd = "3nf85S!"
+passwd = "testPasswd"
 identity = "phone"
-MD5passwd= "Grand2023"
+MD5passwd= "test"
 
 def automate_phone_settings():
     # Тут не трогать, настройка дров для браузера
